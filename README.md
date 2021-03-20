@@ -7,7 +7,7 @@ ______ _____         ______       _____                 _
 \_| \_\____/\___\___/|___/ \___|  \_/\_\\__,_|\___||___/\__|
 ```
 
-# 0x3 DESIGN PATTERNS
+# FINAL 0x3 DESIGN PATTERNS
 
 > Have you heard of design patterns? We hope so. And what about implementing many different ones within the same solution, yet still maintainable, without tight coupling any part of structure?
 
